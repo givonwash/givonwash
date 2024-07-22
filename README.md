@@ -13,6 +13,7 @@ extensive experience managing/working with:
 - [Data Build Tool (abbr. DBT)](https://www.getdbt.com/)
 - [Databricks](https://www.databricks.com/)
 - [Docker](https://www.docker.com/)
+- [FastAPI](https://fastapi.tiangolo.com/)
 - [Elasticsearch](https://www.elastic.co/elasticsearch)
 - [Python](https://www.python.org/)
 - [PostgreSQL](https://www.postgresql.org/)
@@ -20,9 +21,11 @@ extensive experience managing/working with:
 
 In practice, these skills/tools/etc. have been put to use in:
 
-- building diverse fault-tolerant, business-critical ETL/ELT pipelines
-- provisioning AWS infrastructure for the aforementioned ETL/ELT pipelines as well as other
-  business-critical services
+- building diverse fault-tolerant ETL/ELT pipelines
+- provisioning AWS infrastructure from handcrafting [VPC](https://aws.amazon.com/vpc/) network
+  topologies to standing up
+  [ECS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html) services
+- optimizing RESTful microservices for performance, high uptime, and ease of maintainability
 - constructing shared data models between analytics and engineering to ensure accurate and efficient
   reporting from data warehousing solutions
 - creating data-centric developer tooling to eliminate tens of tedious man-hours spent on
@@ -39,10 +42,10 @@ Disjoint from the skills/tools enumerated above, my other interests and hobbies 
 
 ## Want To See Some Code?
 
-Check out [givonwash/melt](https://github.com/givonwash)! It's a small-ish Data Engineering-centric
-sample passion project that mixes some of the skills/tools/etc. used in my past professional
-experience with some of my current interests at the moment (e.g., Kubernetes). The project
-demonstrates competency with DBT, TypeScript (and related tooling), Python, Kubernetes, Argo
+Check out [givonwash/melt](https://github.com/givonwash/melt)! It's a small-ish Data
+Engineering-centric sample project that mixes some of the skills/tools/etc. used in my past
+professional experience with some of my current interests at the moment (e.g., Kubernetes). The
+project demonstrates competency with DBT, TypeScript (and related tooling), Python, Kubernetes, Argo
 Workflows, Airbyte, and more!
 
 ## Want To Stay in Touch?
