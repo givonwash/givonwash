@@ -39,10 +39,10 @@ Disjoint from the skills/tools enumerated above, my other interests and hobbies 
 
 ## Want To See Some Code?
 
-Check out [givonwash/melt](https://github.com/givonwash)! It's a small-ish Data Engineering-centric
-sample passion project that mixes some of the skills/tools/etc. used in my past professional
-experience with some of my current interests at the moment (e.g., Kubernetes). The project
-demonstrates competency with DBT, TypeScript (and related tooling), Python, Kubernetes, Argo
+Check out [givonwash/melt](https://github.com/givonwash/melt)! It's a small-ish Data
+Engineering-centric sample passion project that mixes some of the skills/tools/etc. used in my past
+professional experience with some of my current interests at the moment (e.g., Kubernetes). The
+project demonstrates competency with DBT, TypeScript (and related tooling), Python, Kubernetes, Argo
 Workflows, Airbyte, and more!
 
 ## Want To Stay in Touch?
