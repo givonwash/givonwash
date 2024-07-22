@@ -36,8 +36,7 @@ Disjoint from the skills/tools enumerated above, my other interests and hobbies 
 - [`nix`](https://nixos.org/) and deterministic build systems
 - The [Rust programming language](https://www.rust-lang.org/)
 - [Kubernetes](https://kubernetes.io/)
-- [Type theory](https://en.wikipedia.org/wiki/Type_theory) and its uses in statically typed
-  programming languages today
+- [Type theory](https://en.wikipedia.org/wiki/Type_theory) and its applications
 - Powerlifting 🏋️
 
 ## Want To See Some Code?
