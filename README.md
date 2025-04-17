@@ -8,6 +8,7 @@ science, and history! My professional experience has been primarily as a Data En
 extensive experience managing/working with:
 
 - [Amazon Web Services (abbr. AWS)](https://aws.amazon.com/)
+- [Google Cloud Platform (abbr. GCP)](https://cloud.google.com/)
 - [Apache Airflow](https://airflow.apache.org/)
 - [Apache Spark](https://spark.apache.org/)
 - [Data Build Tool (abbr. DBT)](https://www.getdbt.com/)
@@ -16,20 +17,23 @@ extensive experience managing/working with:
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [Elasticsearch](https://www.elastic.co/elasticsearch)
 - [Python](https://www.python.org/)
+- [Scala](https://scala-lang.org/)
 - [PostgreSQL](https://www.postgresql.org/)
 - [Terraform](https://www.terraform.io/)
 
 In practice, these skills/tools/etc. have been put to use in:
 
-- building diverse fault-tolerant ETL/ELT pipelines
-- provisioning AWS infrastructure from handcrafting [VPC](https://aws.amazon.com/vpc/) network
-  topologies to standing up
-  [ECS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html) services
+- building diverse, fault-tolerant ETL/ELT pipelines capable of handling 100 TB+ of data a month with
+  Python, Scala, SQL, and Airflow
+- provisioning cloud infrastructure from handcrafting [VPC](https://aws.amazon.com/vpc/) network
+  topologies to standing up long-running services (e.g. on
+  [AWS ECS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html))
+- designing and implementing end-to-end "Test, Build, and Deploy" pipelines with Terraform and GitHub
+  Actions
 - optimizing RESTful microservices for performance, high uptime, and ease of maintainability
 - constructing shared data models between analytics and engineering to ensure accurate and efficient
   reporting from data warehousing solutions
-- creating data-centric developer tooling to eliminate tens of tedious man-hours spent on
-  automatable tasks
+- creating data-centric developer tooling to eliminate tedious man-hours spent on automatable tasks
 
 Disjoint from the skills/tools enumerated above, my other interests and hobbies of note include:
 
@@ -41,11 +45,11 @@ Disjoint from the skills/tools enumerated above, my other interests and hobbies 
 
 ## Want To See Some Code?
 
-Check out [givonwash/melt](https://github.com/givonwash/melt)! It's a small-ish Data
-Engineering-centric sample project that mixes some of the skills/tools/etc. used in my past
-professional experience with some of my current interests at the moment (e.g., Kubernetes). The
-project demonstrates competency with DBT, TypeScript (and related tooling), Python, Kubernetes, Argo
-Workflows, Airbyte, and more!
+Check out [givonwash/melt](https://github.com/givonwash/melt)! It's a small Data Engineering-centric
+sample project that mixes some of the skills/tools/etc. used in my past professional experience with
+some of my interests during the summer of 2024 (e.g., Kubernetes). The project demonstrates
+competency with DBT, TypeScript (and related tooling), Python, Kubernetes, Argo Workflows, Airbyte,
+and more!
 
 ## Want To Stay in Touch?
 
