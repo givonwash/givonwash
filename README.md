@@ -1,7 +1,7 @@
 # Welcome! I am Givon.
 
 I am a fellow traveler, lifelong learner, and software engineer trying their best to build a better
-world 🌱
+world 🌍
 
 I am passionate, but certainly not the most well-versed 😆, about mathematics, philosophy, computer
 science, and history! My professional experience has been primarily as a Data Engineer with
